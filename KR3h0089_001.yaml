@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0089/krp/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乾隆十四年十一月初七日奉上諭邃古法物流𫝊有自者惟尊彞鼎鼐厯世恆遠良以質堅而體厚不為燥濕所移剝蝕所損淵然之光穆乎可見三代以上規模氣象故嗜古之士亟有取焉宣和博古一圖播在藝苑繼之者有吕氏考古圖而外此紀載寂寥豈非力能致之而弗能聚所見隘而無足紀歟我朝家法不事玩好民間鑒賞概弗之禁而殿廷陳列與夫內府儲藏者未嘗不富朕於幾務晏閒間加品題夷考舊圖多所未載因思古器顯晦有時及今不為之表章載之簡牘考索者其奚取徵焉爰命尚書梁詩正蔣溥汪由敦率同內廷翰林倣博古圖遺式精繪形模備摹款識為西清古鑑一編以游藝之餘功寄鑒古之遠思亦足稱升平雅尚云特諭
+  hash: sha256:7a80f58e95fd3f1545a7e2a7207d986f45250ad6ceb3130d3d6a236e22e208fb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0089_WYG_001-1a, image: WYG0841/WYG0841-0001a.png}
+metadata:
+  title: 欽定西清古鑑
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:17:05.400954'
+  juan_title: 上諭
+  source:
+    repository: kanripo
+    path: KR3h0089/KR3h0089_001.txt
+hash: sha256:8a4bdfd1c2d3933c291011e0bd49ad3075cb274949d3a250575202825d94de53

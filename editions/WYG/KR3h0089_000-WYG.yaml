@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0089/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定西清古鑑
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:17:05.400954'
+  source:
+    repository: kanripo
+    path: KR3h0089/KR3h0089_000.txt
+hash: sha256:501887851b97bde287224326902a8068e9f27974ec20f93367092ca883564536

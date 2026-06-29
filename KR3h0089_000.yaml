@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0089/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定西清古鑑
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:17:05.400954'
+  source:
+    repository: kanripo
+    path: KR3h0089/KR3h0089_000.txt
+hash: sha256:52a735a22d46fc6d02268973c99b92244de72d4a2f7f564c124b25561f8a1b21
